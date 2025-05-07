@@ -102,10 +102,14 @@ Examples:
   code --install-extension redhat.vscode-yaml
   code --uninstall-extension timonwong.shellcheck
 
-My personal preferences are:
+My personal preferences for Python are:
 
 | :code:`ms-python.python`
 | :code:`ms-python.vscode-pylance`
+
+My personal preferences for C#.Net are:
+
+  | :code:`ms-dotnettools.csde`
 
 .. code:: text
 
