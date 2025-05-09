@@ -3,7 +3,7 @@
 ###################################
 
 Introduction
-------------
+============
 
 Documents my personal setup.
 
@@ -31,6 +31,13 @@ You can check available update packages beforehand:
 Depending on your updates you should restart the system.
 Strictly you could probaly get away with restarting some sub-systems,
 but it will likely be faster just restarting instead of micro-managing services and daemons.
+
+Install prefered Terminal and Shell
+===================================
+
+This topic has its own page:
+https://github.com/TorbenJakobsen/setup_terminal_and_shell.
+
 
 install :code:`ansible`
 -----------------------
