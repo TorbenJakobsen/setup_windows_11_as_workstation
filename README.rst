@@ -103,7 +103,7 @@ You can use the command line to list and install/uninstall extensions.
 
 Examples:
 
-.. code:: bash 
+.. code:: pwsh 
 
   code --list-extensions
   code --install-extension redhat.vscode-yaml
