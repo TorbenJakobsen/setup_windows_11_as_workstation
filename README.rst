@@ -191,3 +191,5 @@ Configure shell prompt
 Other packages to consider
 --------------------------
 
+GPU drivers:
+https://www.nvidia.com/en-us/drivers/
